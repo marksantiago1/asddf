@@ -1,0 +1,15 @@
+.text-container {
+    display: flex;
+}
+
+.left-align {
+    margin-right: auto;
+}
+
+.center-align {
+    margin: 0 auto;
+}
+
+.right-align {
+    margin-left: auto;
+}
